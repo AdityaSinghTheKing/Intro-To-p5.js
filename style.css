@@ -1,0 +1,13 @@
+h5{
+    font-family: Georama;
+    font-weight:bold;
+}
+body{
+    background: rgb(218, 246, 255);
+}
+canvas{
+    border-radius: 10;
+    border-color: black;
+    border: 2px solid black;
+    box-shadow: 5px 5px 20px lightgrey; 
+}
